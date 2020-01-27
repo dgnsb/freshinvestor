@@ -17,8 +17,8 @@ title: Canadian Fresh Investor
 email: canadian@freshinvestor.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Discover the world of investing as told by the Canadian Fresh Investor.
-baseurl: "/freshinvestor" # the subpath of your site, e.g. /blog
-url: "https://dgnsb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
